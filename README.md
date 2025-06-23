@@ -1,4 +1,4 @@
-# Parrot-Mambo# Quadcopter Dynamic Landing on Moving Platform
+# Dynamic Landing of Quadcopter on Moving Platform
 
 This repository contains the simulation and implementation details of a dynamic landing control system for the Parrot Mambo Minidrone.
 
