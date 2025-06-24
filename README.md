@@ -7,7 +7,6 @@ Using MATLAB Simulink and Simscape, we developed a digital twin model to simulat
 
 ## 📂 Repository Structure
 - `simulation/`: Simulink models and Stateflow logic for simulation.
-- `implementation/`: Firmware and control code for physical drone and robot.
 - `results/`: Output videos, performance logs, and images.
 - `docs/`: Final project report and reference materials.
 
